@@ -1,4 +1,7 @@
 package dao;
 
-public interface UsuarioDAO {
+import models.Usuario;
+
+public interface UsuarioDAO extends CRUD<Usuario, Exception> {
+
 }

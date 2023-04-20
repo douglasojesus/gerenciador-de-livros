@@ -1,4 +1,6 @@
 package dao;
 
-public interface BibliotecarioDAO {
+import models.Bibliotecario;
+
+public interface BibliotecarioDAO extends CRUD<Bibliotecario, Exception> {
 }
