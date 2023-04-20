@@ -14,4 +14,39 @@ public class Usuario {
     }
 
 
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public String getTelefone() {
+        return telefone;
+    }
+
+    public void setTelefone(String telefone) {
+        this.telefone = telefone;
+    }
+
+    public ArrayList<Livro> getHistoricoLivros() {
+        return historicoLivros;
+    }
+
+    public void setHistoricoLivros(ArrayList<Livro> historicoLivros) {
+        this.historicoLivros = historicoLivros;
+    }
+
+    public boolean isComLivro() {
+        return isComLivro;
+    }
+
+    public void setComLivro(boolean comLivro) {
+        isComLivro = comLivro;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 }

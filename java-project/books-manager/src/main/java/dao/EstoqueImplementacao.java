@@ -3,7 +3,7 @@ package dao;
 public class EstoqueImplementacao implements Estoque {
     @Override
     public void create(Estoque obj) {
-        
+
     }
 
     @Override
