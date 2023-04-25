@@ -1,5 +1,13 @@
-# gerenciador-de-livros
-Atividade proposta pela disciplina de Algoritmos e Programação II. Desenvolver um diagrama de classe e um diagrama de casos de uso estendido sobre um gerenciador de livros de uma biblioteca.
+<h1 align="center">
+📄<br>Sistema de Gerenciamento de Livros de uma Biblioteca
+</h1>
+<h4 align="center">
+Atividade proposta pela disciplina de Algoritmos e Programação II da Universidade Estadual de Feira de Santana. 
+</h4>
+<h2 align="center">
+Desenvolvimento de um diagrama de classe, um diagrama de casos de uso estendido e um projeto em java (utilizando modelos, dao e controller) sobre um gerenciador de livros de uma biblioteca.
+</h2>
+
 
 Requisitos:
 
